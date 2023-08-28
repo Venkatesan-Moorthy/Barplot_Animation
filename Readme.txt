@@ -15,7 +15,10 @@ This repository contains a Jupyter Notebook script that creates a dynamic bar pl
 - Clear comparison between Experimental and Numerical Natural Frequencies.
 - Visual representation without cluttered y-axis.
 
+## Usage
 
-Cite:
-[1]	Moorthy V, Marappan K. Free vibration analysis and prediction modeling of delaminated tapered FRP composite plates. Proc Inst Mech Eng Part C J Mech Eng Sci n.d.;0:09544062221139777. https://doi.org/10.1177/09544062221139777.
-[2]	Moorthy V, Marappan K. Identification of delamination severity in a tapered FRP composite plate. Compos Struct 2022;299:116054. https://doi.org/10.1016/j.compstruct.2022.116054.
+1. Clone the repository:
+
+   ```bash
+   git clone [https://github.com/Venkatesan-Moorthy/Barplot_Animation]
+   cd dynamic-bar-plot-animation
